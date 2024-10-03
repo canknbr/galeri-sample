@@ -1,3 +1,3 @@
 HTML-CSS-JS-GSAP ile yapılmış örnek sayfadır
 
-![Screenshot](./ss1.png)(https://search-sample-orpin.vercel.app/)
+![Screenshot](./ss1.png)(https://galeri-sample.vercel.app/)
